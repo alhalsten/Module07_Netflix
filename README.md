@@ -1,6 +1,8 @@
 # Angela Halsten 10/3/23
 
 # Module07_Netflix
+Netflix.csv filed was pulled from https://www.kaggle.com/datasets/akpmpr/updated-netflix-stock-price-all-time
+
 Netflix_Producer.py creates messages for Netflix stocks
 If the closing price for tomorrow is 125% of the today, we buy (if we were psychic)
 If the openening price today is 75% of tomorrow then we would sell (again, psychic)
