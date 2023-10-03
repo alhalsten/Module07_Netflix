@@ -1,0 +1,13 @@
+2023-10-03 15:09:31,412.Netflix-close_consumer.INFO ==================================================
+2023-10-03 15:09:31,412.Netflix-close_consumer.INFO Today is 2023-10-03 at 03:09 PM
+2023-10-03 15:09:31,412.Netflix-close_consumer.INFO Running on: nt Windows 10
+2023-10-03 15:09:31,413.Netflix-close_consumer.INFO Python version:  3.9.12
+2023-10-03 15:09:31,413.Netflix-close_consumer.INFO Python path: C:\Users\alhal\miniconda3
+2023-10-03 15:09:31,413.Netflix-close_consumer.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\Module07_Netflix
+2023-10-03 15:09:31,413.Netflix-close_consumer.INFO ==================================================
+2023-10-03 15:09:31,445.Netflix-close_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-03 15:09:32,411.Netflix-close_consumer.ERROR An error has occurred with the smoker message.
+2023-10-03 15:09:32,413.Netflix-close_consumer.ERROR The error says: list index out of range.
+2023-10-03 15:09:51,429.Netflix-close_consumer.INFO 
+Closing connection. Goodbye.
+

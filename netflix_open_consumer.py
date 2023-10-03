@@ -1,10 +1,9 @@
 """
-   Angela Halsten 9/30/23
+   Angela Halsten 10/3/23
     This program listens for work messages contiously.
     Start multiple versions to add more workers.  
 
-    Author: Denise Case
-    Date: January 15, 2023
+   
 
 """
 
@@ -17,8 +16,8 @@ from collections import deque
 from util_logger import setup_logger
 logger, logname = setup_logger(__file__)
 
-close_deque = deque(maxlen = 5)
-alert = "Buy Netflix!"
+close_deque = deque(maxlen = 2)
+alert = "Sell Netflix!"
 
 
 # define a callback function to be called when a message is received
@@ -35,13 +34,13 @@ def close_callback(ch, method, properties, body):
         close_mess = body.decode().split(",")
         # check to see if message contains a valid temperature to add to deque
         if close_mess[1] != "No Data":
-            close_price = float(close_mess[4])
+            close_price = float(close_mess[1])
             close_date = close_mess[0]
             close_deque.append(close_price)
             
         if len(close_deque) == 2:
             closealert = close_deque[0]/close_deque[1]
-            if closealert > 0.5:
+            if closealert < 0.75:
                 print(alert)
         # decode the binary message body to a string
     
@@ -54,7 +53,7 @@ def close_callback(ch, method, properties, body):
         # (now it can be deleted from the queue)
         ch.basic_ack(delivery_tag=method.delivery_tag)
     except Exception as e:
-        logger.error("An error has occurred with the smoker message.")
+        logger.error("An error has occurred with the Netflix message.")
         logger.error(f"The error says: {e}.")
 
 # define a main function to run the program
@@ -84,7 +83,7 @@ def main(hn: str = "localhost", qn: str = "task_queue"):
         # a durable queue will survive a RabbitMQ server restart
         # and help ensure messages are processed in order
         # messages will not be deleted until the consumer acknowledges
-        channel.queue_delete(queue=qn)
+        #channel.queue_delete(queue=qn)
         channel.queue_declare(queue=qn, durable=True)
 
         # The QoS level controls the # of messages
@@ -129,4 +128,4 @@ def main(hn: str = "localhost", qn: str = "task_queue"):
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
     # call the main function with the information needed
-    main("localhost", "01-close")
+    main("localhost", "02-open")

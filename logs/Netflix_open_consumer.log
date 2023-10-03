@@ -1,0 +1,503 @@
+2023-10-03 15:44:30,185.Netflix_open_consumer.INFO ==================================================
+2023-10-03 15:44:30,185.Netflix_open_consumer.INFO Today is 2023-10-03 at 03:44 PM
+2023-10-03 15:44:30,186.Netflix_open_consumer.INFO Running on: nt Windows 10
+2023-10-03 15:44:30,186.Netflix_open_consumer.INFO Python version:  3.9.12
+2023-10-03 15:44:30,186.Netflix_open_consumer.INFO Python path: C:\Users\alhal\miniconda3
+2023-10-03 15:44:30,186.Netflix_open_consumer.INFO Working dir: C:\Users\alhal\OneDrive\Documents\44-671\Module07_Netflix
+2023-10-03 15:44:30,187.Netflix_open_consumer.INFO ==================================================
+2023-10-03 15:44:30,206.Netflix_open_consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-03 15:44:30,206.Netflix_open_consumer.INFO  [x] Received 8/26/2002,0.996429026
+2023-10-03 15:44:30,207.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,209.Netflix_open_consumer.INFO  [x] Received 8/27/2002,0.967857003
+2023-10-03 15:44:30,209.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,210.Netflix_open_consumer.INFO  [x] Received 8/28/2002,0.861428976
+2023-10-03 15:44:30,210.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,211.Netflix_open_consumer.INFO  [x] Received 8/29/2002,0.832857013
+2023-10-03 15:44:30,211.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,212.Netflix_open_consumer.INFO  [x] Received 8/30/2002,0.914286017
+2023-10-03 15:44:30,212.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,213.Netflix_open_consumer.INFO  [x] Received 9/3/2002,0.936429024
+2023-10-03 15:44:30,213.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,213.Netflix_open_consumer.INFO  [x] Received 9/4/2002,0.925714016
+2023-10-03 15:44:30,214.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,214.Netflix_open_consumer.INFO  [x] Received 9/5/2002,0.917856991
+2023-10-03 15:44:30,214.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,215.Netflix_open_consumer.INFO  [x] Received 9/6/2002,0.927856982
+2023-10-03 15:44:30,215.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,216.Netflix_open_consumer.INFO  [x] Received 9/9/2002,0.919286013
+2023-10-03 15:44:30,216.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,217.Netflix_open_consumer.INFO  [x] Received 9/10/2002,0.90071398
+2023-10-03 15:44:30,217.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,217.Netflix_open_consumer.INFO  [x] Received 9/11/2002,0.938570976
+2023-10-03 15:44:30,218.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,220.Netflix_open_consumer.INFO  [x] Received 9/12/2002,0.962857008
+2023-10-03 15:44:30,220.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,221.Netflix_open_consumer.INFO  [x] Received 9/13/2002,0.921428978
+2023-10-03 15:44:30,221.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,222.Netflix_open_consumer.INFO  [x] Received 9/16/2002,0.892143011
+2023-10-03 15:44:30,222.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,223.Netflix_open_consumer.INFO  [x] Received 9/17/2002,0.863570988
+2023-10-03 15:44:30,223.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,224.Netflix_open_consumer.INFO  [x] Received 9/18/2002,0.836429
+2023-10-03 15:44:30,224.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,224.Netflix_open_consumer.INFO  [x] Received 9/19/2002,0.785000026
+2023-10-03 15:44:30,225.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,225.Netflix_open_consumer.INFO  [x] Received 9/20/2002,0.753570974
+2023-10-03 15:44:30,225.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,226.Netflix_open_consumer.INFO  [x] Received 9/23/2002,0.714286029
+2023-10-03 15:44:30,226.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,227.Netflix_open_consumer.INFO  [x] Received 9/24/2002,0.711429
+2023-10-03 15:44:30,227.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,228.Netflix_open_consumer.INFO  [x] Received 9/25/2002,0.72428602
+2023-10-03 15:44:30,228.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,228.Netflix_open_consumer.INFO  [x] Received 9/26/2002,0.748570979
+2023-10-03 15:44:30,229.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,229.Netflix_open_consumer.INFO  [x] Received 9/27/2002,0.776428998
+2023-10-03 15:44:30,229.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,230.Netflix_open_consumer.INFO  [x] Received 9/30/2002,0.707143009
+2023-10-03 15:44:30,230.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,231.Netflix_open_consumer.INFO  [x] Received 10/1/2002,0.709285975
+2023-10-03 15:44:30,231.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,232.Netflix_open_consumer.INFO  [x] Received 10/2/2002,0.688570976
+2023-10-03 15:44:30,232.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,233.Netflix_open_consumer.INFO  [x] Received 10/3/2002,0.569285989
+2023-10-03 15:44:30,234.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,235.Netflix_open_consumer.INFO  [x] Received 5/23/2002,1.156429052
+2023-10-03 15:44:30,236.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,237.Netflix_open_consumer.INFO  [x] Received 5/24/2002,1.21428597
+2023-10-03 15:44:30,237.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,237.Netflix_open_consumer.INFO  [x] Received 5/28/2002,1.213570952
+2023-10-03 15:44:30,238.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,238.Netflix_open_consumer.INFO  [x] Received 5/29/2002,1.164286017
+2023-10-03 15:44:30,239.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,239.Netflix_open_consumer.INFO  [x] Received 5/30/2002,1.107856989
+2023-10-03 15:44:30,240.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,240.Netflix_open_consumer.INFO  [x] Received 5/31/2002,1.078570962
+2023-10-03 15:44:30,240.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,241.Netflix_open_consumer.INFO  [x] Received 6/3/2002,1.080000043
+2023-10-03 15:44:30,241.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,242.Netflix_open_consumer.INFO  [x] Received 6/4/2002,1.135714054
+2023-10-03 15:44:30,242.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,242.Netflix_open_consumer.INFO  [x] Received 6/5/2002,1.110713959
+2023-10-03 15:44:30,243.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,243.Netflix_open_consumer.INFO  [x] Received 6/6/2002,1.149999976
+2023-10-03 15:44:30,243.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,244.Netflix_open_consumer.INFO  [x] Received 6/7/2002,1.177857041
+2023-10-03 15:44:30,244.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,245.Netflix_open_consumer.INFO  [x] Received 6/10/2002,1.13499999
+2023-10-03 15:44:30,245.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,246.Netflix_open_consumer.INFO  [x] Received 6/11/2002,1.156429052
+2023-10-03 15:44:30,246.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,246.Netflix_open_consumer.INFO  [x] Received 6/12/2002,1.15357101
+2023-10-03 15:44:30,247.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,247.Netflix_open_consumer.INFO  [x] Received 6/13/2002,1.104285955
+2023-10-03 15:44:30,247.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,248.Netflix_open_consumer.INFO  [x] Received 6/14/2002,1.082142949
+2023-10-03 15:44:30,248.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,249.Netflix_open_consumer.INFO  [x] Received 6/17/2002,1.013571024
+2023-10-03 15:44:30,250.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,251.Netflix_open_consumer.INFO  [x] Received 6/18/2002,0.938570976
+2023-10-03 15:44:30,251.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,255.Netflix_open_consumer.INFO  [x] Received 6/19/2002,0.911428988
+2023-10-03 15:44:30,255.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,256.Netflix_open_consumer.INFO  [x] Received 6/20/2002,0.97142899
+2023-10-03 15:44:30,256.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,256.Netflix_open_consumer.INFO  [x] Received 6/21/2002,0.982142985
+2023-10-03 15:44:30,257.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,257.Netflix_open_consumer.INFO  [x] Received 6/24/2002,0.979286015
+2023-10-03 15:44:30,257.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,258.Netflix_open_consumer.INFO  [x] Received 6/25/2002,0.988570988
+2023-10-03 15:44:30,258.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,259.Netflix_open_consumer.INFO  [x] Received 6/26/2002,0.963571012
+2023-10-03 15:44:30,259.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,259.Netflix_open_consumer.INFO  [x] Received 6/27/2002,1.009286046
+2023-10-03 15:44:30,259.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,260.Netflix_open_consumer.INFO  [x] Received 6/28/2002,0.960713983
+2023-10-03 15:44:30,260.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,261.Netflix_open_consumer.INFO  [x] Received 7/1/2002,1
+2023-10-03 15:44:30,261.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,262.Netflix_open_consumer.INFO  [x] Received 7/2/2002,1.053570986
+2023-10-03 15:44:30,262.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,262.Netflix_open_consumer.INFO  [x] Received 7/3/2002,1.178570986
+2023-10-03 15:44:30,262.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,263.Netflix_open_consumer.INFO  [x] Received 7/5/2002,1.21428597
+2023-10-03 15:44:30,263.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,264.Netflix_open_consumer.INFO  [x] Received 7/8/2002,1.252143025
+2023-10-03 15:44:30,264.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,264.Netflix_open_consumer.INFO  [x] Received 7/9/2002,1.174999952
+2023-10-03 15:44:30,265.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,267.Netflix_open_consumer.INFO  [x] Received 7/10/2002,1.161429048
+2023-10-03 15:44:30,267.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,267.Netflix_open_consumer.INFO  [x] Received 7/11/2002,1.154286027
+2023-10-03 15:44:30,268.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,268.Netflix_open_consumer.INFO  [x] Received 7/12/2002,1.27857101
+2023-10-03 15:44:30,269.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,269.Netflix_open_consumer.INFO  [x] Received 7/15/2002,1.242856979
+2023-10-03 15:44:30,269.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,270.Netflix_open_consumer.INFO  [x] Received 7/16/2002,1.152856946
+2023-10-03 15:44:30,270.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,271.Netflix_open_consumer.INFO  [x] Received 7/17/2002,1.144999981
+2023-10-03 15:44:30,271.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,272.Netflix_open_consumer.INFO  [x] Received 7/18/2002,1.117143035
+2023-10-03 15:44:30,272.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,273.Netflix_open_consumer.INFO  [x] Received 7/19/2002,1.152856946
+2023-10-03 15:44:30,273.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,273.Netflix_open_consumer.INFO  [x] Received 7/22/2002,1.135714054
+2023-10-03 15:44:30,274.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,274.Netflix_open_consumer.INFO  [x] Received 7/23/2002,1.176429033
+2023-10-03 15:44:30,274.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,274.Netflix_open_consumer.INFO  [x] Received 7/24/2002,1.146428943
+2023-10-03 15:44:30,274.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,275.Netflix_open_consumer.INFO  [x] Received 7/25/2002,1.125
+2023-10-03 15:44:30,275.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,276.Netflix_open_consumer.INFO  [x] Received 7/26/2002,1.049999952
+2023-10-03 15:44:30,276.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,276.Netflix_open_consumer.INFO  [x] Received 7/29/2002,0.896429002
+2023-10-03 15:44:30,277.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,277.Netflix_open_consumer.INFO  [x] Received 7/30/2002,0.893571019
+2023-10-03 15:44:30,277.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,278.Netflix_open_consumer.INFO  [x] Received 7/31/2002,0.928570986
+2023-10-03 15:44:30,278.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,279.Netflix_open_consumer.INFO  [x] Received 8/1/2002,0.949999988
+2023-10-03 15:44:30,279.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,279.Netflix_open_consumer.INFO  [x] Received 8/2/2002,0.886429012
+2023-10-03 15:44:30,280.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,282.Netflix_open_consumer.INFO  [x] Received 8/5/2002,0.77857101
+2023-10-03 15:44:30,282.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,282.Netflix_open_consumer.INFO  [x] Received 8/6/2002,0.795714021
+2023-10-03 15:44:30,283.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,283.Netflix_open_consumer.INFO  [x] Received 8/7/2002,0.760713995
+2023-10-03 15:44:30,283.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,284.Netflix_open_consumer.INFO  [x] Received 8/8/2002,0.796428978
+2023-10-03 15:44:30,284.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,285.Netflix_open_consumer.INFO  [x] Received 8/9/2002,0.798570991
+2023-10-03 15:44:30,285.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,286.Netflix_open_consumer.INFO  [x] Received 8/12/2002,0.802856982
+2023-10-03 15:44:30,286.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,286.Netflix_open_consumer.INFO  [x] Received 8/13/2002,0.767857015
+2023-10-03 15:44:30,287.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,287.Netflix_open_consumer.INFO  [x] Received 8/14/2002,0.77571398
+2023-10-03 15:44:30,287.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,288.Netflix_open_consumer.INFO  [x] Received 8/15/2002,0.837143004
+2023-10-03 15:44:30,288.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,289.Netflix_open_consumer.INFO  [x] Received 8/16/2002,0.892857015
+2023-10-03 15:44:30,289.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,290.Netflix_open_consumer.INFO  [x] Received 8/19/2002,0.925000012
+2023-10-03 15:44:30,290.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,290.Netflix_open_consumer.INFO  [x] Received 8/20/2002,0.985000014
+2023-10-03 15:44:30,291.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,291.Netflix_open_consumer.INFO  [x] Received 8/21/2002,0.952857018
+2023-10-03 15:44:30,291.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,292.Netflix_open_consumer.INFO  [x] Received 8/22/2002,0.973571002
+2023-10-03 15:44:30,292.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,293.Netflix_open_consumer.INFO  [x] Received 8/23/2002,0.993570983
+2023-10-03 15:44:30,293.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,294.Netflix_open_consumer.INFO  [x] Received 8/26/2002,0.996429026
+2023-10-03 15:44:30,294.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,294.Netflix_open_consumer.INFO  [x] Received 8/27/2002,0.967857003
+2023-10-03 15:44:30,294.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,295.Netflix_open_consumer.INFO  [x] Received 8/28/2002,0.861428976
+2023-10-03 15:44:30,295.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,296.Netflix_open_consumer.INFO  [x] Received 8/29/2002,0.832857013
+2023-10-03 15:44:30,297.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,298.Netflix_open_consumer.INFO  [x] Received 8/30/2002,0.914286017
+2023-10-03 15:44:30,298.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,299.Netflix_open_consumer.INFO  [x] Received 9/3/2002,0.936429024
+2023-10-03 15:44:30,299.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,299.Netflix_open_consumer.INFO  [x] Received 9/4/2002,0.925714016
+2023-10-03 15:44:30,300.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,300.Netflix_open_consumer.INFO  [x] Received 9/5/2002,0.917856991
+2023-10-03 15:44:30,300.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,301.Netflix_open_consumer.INFO  [x] Received 9/6/2002,0.927856982
+2023-10-03 15:44:30,301.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,302.Netflix_open_consumer.INFO  [x] Received 9/9/2002,0.919286013
+2023-10-03 15:44:30,302.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,302.Netflix_open_consumer.INFO  [x] Received 9/10/2002,0.90071398
+2023-10-03 15:44:30,303.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,303.Netflix_open_consumer.INFO  [x] Received 9/11/2002,0.938570976
+2023-10-03 15:44:30,304.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,304.Netflix_open_consumer.INFO  [x] Received 9/12/2002,0.962857008
+2023-10-03 15:44:30,304.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,305.Netflix_open_consumer.INFO  [x] Received 9/13/2002,0.921428978
+2023-10-03 15:44:30,305.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,306.Netflix_open_consumer.INFO  [x] Received 9/16/2002,0.892143011
+2023-10-03 15:44:30,306.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,307.Netflix_open_consumer.INFO  [x] Received 9/17/2002,0.863570988
+2023-10-03 15:44:30,307.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,308.Netflix_open_consumer.INFO  [x] Received 9/18/2002,0.836429
+2023-10-03 15:44:30,308.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,309.Netflix_open_consumer.INFO  [x] Received 9/19/2002,0.785000026
+2023-10-03 15:44:30,309.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,309.Netflix_open_consumer.INFO  [x] Received 9/20/2002,0.753570974
+2023-10-03 15:44:30,309.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,310.Netflix_open_consumer.INFO  [x] Received 9/23/2002,0.714286029
+2023-10-03 15:44:30,310.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,311.Netflix_open_consumer.INFO  [x] Received 9/24/2002,0.711429
+2023-10-03 15:44:30,311.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,312.Netflix_open_consumer.INFO  [x] Received 9/25/2002,0.72428602
+2023-10-03 15:44:30,313.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,314.Netflix_open_consumer.INFO  [x] Received 9/26/2002,0.748570979
+2023-10-03 15:44:30,314.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,315.Netflix_open_consumer.INFO  [x] Received 9/27/2002,0.776428998
+2023-10-03 15:44:30,315.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,316.Netflix_open_consumer.INFO  [x] Received 9/30/2002,0.707143009
+2023-10-03 15:44:30,316.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,316.Netflix_open_consumer.INFO  [x] Received 10/1/2002,0.709285975
+2023-10-03 15:44:30,317.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,317.Netflix_open_consumer.INFO  [x] Received 10/2/2002,0.688570976
+2023-10-03 15:44:30,317.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,320.Netflix_open_consumer.INFO  [x] Received 10/3/2002,0.569285989
+2023-10-03 15:44:30,321.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,321.Netflix_open_consumer.INFO  [x] Received 10/4/2002,0.517857015
+2023-10-03 15:44:30,322.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,322.Netflix_open_consumer.INFO  [x] Received 10/7/2002,0.449999988
+2023-10-03 15:44:30,322.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,323.Netflix_open_consumer.INFO  [x] Received 10/8/2002,0.410714
+2023-10-03 15:44:30,323.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,324.Netflix_open_consumer.INFO  [x] Received 10/9/2002,0.409999996
+2023-10-03 15:44:30,324.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,324.Netflix_open_consumer.INFO  [x] Received 10/10/2002,0.377857
+2023-10-03 15:44:30,324.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,325.Netflix_open_consumer.INFO  [x] Received 10/11/2002,0.508571029
+2023-10-03 15:44:30,325.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,326.Netflix_open_consumer.INFO  [x] Received 10/14/2002,0.464286
+2023-10-03 15:44:30,326.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,327.Netflix_open_consumer.INFO  [x] Received 10/15/2002,0.542856991
+2023-10-03 15:44:30,327.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,327.Netflix_open_consumer.INFO  [x] Received 10/16/2002,0.529286027
+2023-10-03 15:44:30,327.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,330.Netflix_open_consumer.INFO  [x] Received 10/17/2002,0.472142994
+2023-10-03 15:44:30,330.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,331.Netflix_open_consumer.INFO  [x] Received 10/18/2002,0.585713983
+2023-10-03 15:44:30,331.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,332.Netflix_open_consumer.INFO  [x] Received 10/21/2002,0.638571024
+2023-10-03 15:44:30,332.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,332.Netflix_open_consumer.INFO  [x] Received 10/22/2002,0.635713995
+2023-10-03 15:44:30,333.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,333.Netflix_open_consumer.INFO  [x] Received 10/23/2002,0.625
+2023-10-03 15:44:30,333.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,334.Netflix_open_consumer.INFO  [x] Received 10/24/2002,0.606428981
+2023-10-03 15:44:30,334.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,335.Netflix_open_consumer.INFO  [x] Received 10/25/2002,0.579999983
+2023-10-03 15:44:30,335.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,336.Netflix_open_consumer.INFO  [x] Received 10/28/2002,0.664286017
+2023-10-03 15:44:30,336.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,336.Netflix_open_consumer.INFO  [x] Received 10/29/2002,0.675000012
+2023-10-03 15:44:30,337.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,337.Netflix_open_consumer.INFO  [x] Received 10/30/2002,0.663571
+2023-10-03 15:44:30,338.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,338.Netflix_open_consumer.INFO  [x] Received 10/31/2002,0.636429012
+2023-10-03 15:44:30,338.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,339.Netflix_open_consumer.INFO  [x] Received 11/1/2002,0.628570974
+2023-10-03 15:44:30,339.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,340.Netflix_open_consumer.INFO  [x] Received 11/4/2002,0.642857015
+2023-10-03 15:44:30,340.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,340.Netflix_open_consumer.INFO  [x] Received 11/5/2002,0.672142982
+2023-10-03 15:44:30,341.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,341.Netflix_open_consumer.INFO  [x] Received 11/6/2002,0.664286017
+2023-10-03 15:44:30,341.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,342.Netflix_open_consumer.INFO  [x] Received 11/7/2002,0.632143021
+2023-10-03 15:44:30,342.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,343.Netflix_open_consumer.INFO  [x] Received 11/8/2002,0.605000019
+2023-10-03 15:44:30,343.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,343.Netflix_open_consumer.INFO  [x] Received 11/11/2002,0.607142985
+2023-10-03 15:44:30,343.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,344.Netflix_open_consumer.INFO  [x] Received 11/12/2002,0.600000024
+2023-10-03 15:44:30,346.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,346.Netflix_open_consumer.INFO  [x] Received 11/13/2002,0.579285979
+2023-10-03 15:44:30,346.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,347.Netflix_open_consumer.INFO  [x] Received 11/14/2002,0.642857015
+2023-10-03 15:44:30,347.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,348.Netflix_open_consumer.INFO  [x] Received 11/15/2002,0.642143011
+2023-10-03 15:44:30,348.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,349.Netflix_open_consumer.INFO  [x] Received 11/18/2002,0.648571014
+2023-10-03 15:44:30,349.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:30,880.Netflix_open_consumer.INFO  [x] Received 11/19/2002,0.720000029
+2023-10-03 15:44:30,880.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:31,907.Netflix_open_consumer.INFO  [x] Received 11/20/2002,0.674286008
+2023-10-03 15:44:31,908.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:32,947.Netflix_open_consumer.INFO  [x] Received 11/21/2002,0.728570998
+2023-10-03 15:44:32,947.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:33,974.Netflix_open_consumer.INFO  [x] Received 11/22/2002,0.757143021
+2023-10-03 15:44:33,975.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:35,006.Netflix_open_consumer.INFO  [x] Received 11/25/2002,0.792856991
+2023-10-03 15:44:35,006.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:36,042.Netflix_open_consumer.INFO  [x] Received 11/26/2002,0.771429002
+2023-10-03 15:44:36,042.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:37,067.Netflix_open_consumer.INFO  [x] Received 11/27/2002,0.761429012
+2023-10-03 15:44:37,067.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:38,098.Netflix_open_consumer.INFO  [x] Received 11/29/2002,0.75
+2023-10-03 15:44:38,098.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:39,132.Netflix_open_consumer.INFO  [x] Received 12/2/2002,0.742856979
+2023-10-03 15:44:39,132.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:40,162.Netflix_open_consumer.INFO  [x] Received 12/3/2002,0.75
+2023-10-03 15:44:40,162.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:41,192.Netflix_open_consumer.INFO  [x] Received 12/4/2002,0.742856979
+2023-10-03 15:44:41,193.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:42,234.Netflix_open_consumer.INFO  [x] Received 12/5/2002,0.858570993
+2023-10-03 15:44:42,234.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:43,265.Netflix_open_consumer.INFO  [x] Received 12/6/2002,0.785000026
+2023-10-03 15:44:43,266.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:44,310.Netflix_open_consumer.INFO  [x] Received 12/9/2002,0.795714021
+2023-10-03 15:44:44,310.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:45,335.Netflix_open_consumer.INFO  [x] Received 12/10/2002,0.800000012
+2023-10-03 15:44:45,335.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:46,369.Netflix_open_consumer.INFO  [x] Received 12/11/2002,0.854286015
+2023-10-03 15:44:46,369.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:47,402.Netflix_open_consumer.INFO  [x] Received 12/12/2002,0.905713975
+2023-10-03 15:44:47,402.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:48,433.Netflix_open_consumer.INFO  [x] Received 12/13/2002,0.899999976
+2023-10-03 15:44:48,434.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:49,464.Netflix_open_consumer.INFO  [x] Received 12/16/2002,0.898571014
+2023-10-03 15:44:49,464.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:50,507.Netflix_open_consumer.INFO  [x] Received 12/17/2002,0.914286017
+2023-10-03 15:44:50,507.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:51,534.Netflix_open_consumer.INFO  [x] Received 12/18/2002,0.896429002
+2023-10-03 15:44:51,534.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:52,566.Netflix_open_consumer.INFO  [x] Received 12/19/2002,0.770713985
+2023-10-03 15:44:52,566.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:53,593.Netflix_open_consumer.INFO  [x] Received 12/20/2002,0.764285982
+2023-10-03 15:44:53,593.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:54,623.Netflix_open_consumer.INFO  [x] Received 12/23/2002,0.739286005
+2023-10-03 15:44:54,623.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:55,659.Netflix_open_consumer.INFO  [x] Received 12/24/2002,0.728570998
+2023-10-03 15:44:55,659.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:56,685.Netflix_open_consumer.INFO  [x] Received 12/26/2002,0.702143013
+2023-10-03 15:44:56,685.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:57,727.Netflix_open_consumer.INFO  [x] Received 12/27/2002,0.692857027
+2023-10-03 15:44:57,727.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:58,755.Netflix_open_consumer.INFO  [x] Received 12/30/2002,0.703571022
+2023-10-03 15:44:58,755.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:44:59,784.Netflix_open_consumer.INFO  [x] Received 12/31/2002,0.712857008
+2023-10-03 15:44:59,784.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:00,822.Netflix_open_consumer.INFO  [x] Received 1/2/2003,0.84642899
+2023-10-03 15:45:00,823.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:01,851.Netflix_open_consumer.INFO  [x] Received 1/3/2003,0.850000024
+2023-10-03 15:45:01,852.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:02,895.Netflix_open_consumer.INFO  [x] Received 1/6/2003,0.785713971
+2023-10-03 15:45:02,895.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:03,926.Netflix_open_consumer.INFO  [x] Received 1/7/2003,0.771429002
+2023-10-03 15:45:03,927.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:04,962.Netflix_open_consumer.INFO  [x] Received 1/8/2003,0.771429002
+2023-10-03 15:45:04,962.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:06,001.Netflix_open_consumer.INFO  [x] Received 1/9/2003,0.824999988
+2023-10-03 15:45:06,002.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:07,041.Netflix_open_consumer.INFO  [x] Received 1/10/2003,0.834999979
+2023-10-03 15:45:07,041.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:08,069.Netflix_open_consumer.INFO  [x] Received 1/13/2003,0.857856989
+2023-10-03 15:45:08,069.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:09,104.Netflix_open_consumer.INFO  [x] Received 1/14/2003,0.871429026
+2023-10-03 15:45:09,104.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:10,147.Netflix_open_consumer.INFO  [x] Received 1/15/2003,0.84928602
+2023-10-03 15:45:10,147.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:11,206.Netflix_open_consumer.INFO  [x] Received 1/16/2003,0.907142997
+2023-10-03 15:45:11,206.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:12,242.Netflix_open_consumer.INFO  [x] Received 1/17/2003,0.842857003
+2023-10-03 15:45:12,244.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:13,288.Netflix_open_consumer.INFO  [x] Received 1/21/2003,0.826429009
+2023-10-03 15:45:13,288.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:14,332.Netflix_open_consumer.INFO  [x] Received 1/22/2003,0.812856972
+2023-10-03 15:45:14,332.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:15,372.Netflix_open_consumer.INFO  [x] Received 1/23/2003,0.850714028
+2023-10-03 15:45:15,372.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:16,404.Netflix_open_consumer.INFO  [x] Received 1/24/2003,0.875
+2023-10-03 15:45:16,404.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:17,430.Netflix_open_consumer.INFO  [x] Received 1/27/2003,0.864286005
+2023-10-03 15:45:17,430.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:18,470.Netflix_open_consumer.INFO  [x] Received 1/28/2003,0.85928601
+2023-10-03 15:45:18,470.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:19,508.Netflix_open_consumer.INFO  [x] Received 1/29/2003,0.899999976
+2023-10-03 15:45:19,509.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:20,546.Netflix_open_consumer.INFO  [x] Received 1/30/2003,0.892857015
+2023-10-03 15:45:20,546.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:21,574.Netflix_open_consumer.INFO  [x] Received 1/31/2003,0.905713975
+2023-10-03 15:45:21,574.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:22,607.Netflix_open_consumer.INFO  [x] Received 2/3/2003,0.938570976
+2023-10-03 15:45:22,607.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:23,640.Netflix_open_consumer.INFO  [x] Received 2/4/2003,0.899999976
+2023-10-03 15:45:23,640.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:24,667.Netflix_open_consumer.INFO  [x] Received 2/5/2003,0.875714004
+2023-10-03 15:45:24,667.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:25,702.Netflix_open_consumer.INFO  [x] Received 2/6/2003,0.854286015
+2023-10-03 15:45:25,702.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:26,737.Netflix_open_consumer.INFO  [x] Received 2/7/2003,0.842857003
+2023-10-03 15:45:26,737.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:27,775.Netflix_open_consumer.INFO  [x] Received 2/10/2003,0.873570979
+2023-10-03 15:45:27,776.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:28,820.Netflix_open_consumer.INFO  [x] Received 2/11/2003,0.921428978
+2023-10-03 15:45:28,820.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:29,862.Netflix_open_consumer.INFO  [x] Received 2/12/2003,0.954999983
+2023-10-03 15:45:29,862.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:30,905.Netflix_open_consumer.INFO  [x] Received 2/13/2003,0.950713992
+2023-10-03 15:45:30,905.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:31,933.Netflix_open_consumer.INFO  [x] Received 2/14/2003,0.952143013
+2023-10-03 15:45:31,934.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:32,970.Netflix_open_consumer.INFO  [x] Received 2/18/2003,1.022143006
+2023-10-03 15:45:32,970.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:34,000.Netflix_open_consumer.INFO  [x] Received 2/19/2003,1.058570981
+2023-10-03 15:45:34,000.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:35,027.Netflix_open_consumer.INFO  [x] Received 2/20/2003,1.106428981
+2023-10-03 15:45:35,027.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:36,066.Netflix_open_consumer.INFO  [x] Received 2/21/2003,1.100000024
+2023-10-03 15:45:36,067.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:37,097.Netflix_open_consumer.INFO  [x] Received 2/24/2003,1.024286032
+2023-10-03 15:45:37,097.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:38,136.Netflix_open_consumer.INFO  [x] Received 2/25/2003,0.986428976
+2023-10-03 15:45:38,136.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:39,178.Netflix_open_consumer.INFO  [x] Received 2/26/2003,1.054286003
+2023-10-03 15:45:39,178.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:40,211.Netflix_open_consumer.INFO  [x] Received 2/27/2003,1.058570981
+2023-10-03 15:45:40,211.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:41,250.Netflix_open_consumer.INFO  [x] Received 2/28/2003,1.187857032
+2023-10-03 15:45:41,250.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:42,293.Netflix_open_consumer.INFO  [x] Received 3/3/2003,1.207857013
+2023-10-03 15:45:42,293.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:43,333.Netflix_open_consumer.INFO  [x] Received 3/4/2003,1.142143011
+2023-10-03 15:45:43,333.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:44,371.Netflix_open_consumer.INFO  [x] Received 3/5/2003,1.168570995
+2023-10-03 15:45:44,371.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:45,406.Netflix_open_consumer.INFO  [x] Received 3/6/2003,1.164999962
+2023-10-03 15:45:45,406.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:46,432.Netflix_open_consumer.INFO  [x] Received 3/7/2003,1.141428947
+2023-10-03 15:45:46,432.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:47,460.Netflix_open_consumer.INFO  [x] Received 3/10/2003,1.141428947
+2023-10-03 15:45:47,460.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:48,484.Netflix_open_consumer.INFO  [x] Received 3/11/2003,1.123571038
+2023-10-03 15:45:48,484.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:49,515.Netflix_open_consumer.INFO  [x] Received 3/12/2003,1.103571057
+2023-10-03 15:45:49,516.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:50,542.Netflix_open_consumer.INFO  [x] Received 3/13/2003,1.097143054
+2023-10-03 15:45:50,542.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:51,574.Netflix_open_consumer.INFO  [x] Received 3/14/2003,1.185714006
+2023-10-03 15:45:51,575.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:52,599.Netflix_open_consumer.INFO  [x] Received 3/17/2003,1.184285998
+2023-10-03 15:45:52,600.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:53,627.Netflix_open_consumer.INFO  [x] Received 3/18/2003,1.321429014
+2023-10-03 15:45:53,627.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:54,662.Netflix_open_consumer.INFO  [x] Received 3/19/2003,1.363571048
+2023-10-03 15:45:54,663.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:55,687.Netflix_open_consumer.INFO  [x] Received 3/20/2003,1.389286041
+2023-10-03 15:45:55,687.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:56,713.Netflix_open_consumer.INFO  [x] Received 3/21/2003,1.36500001
+2023-10-03 15:45:56,714.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:57,743.Netflix_open_consumer.INFO  [x] Received 3/24/2003,1.304999948
+2023-10-03 15:45:57,744.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:58,769.Netflix_open_consumer.INFO  [x] Received 3/25/2003,1.28571403
+2023-10-03 15:45:58,769.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:45:59,795.Netflix_open_consumer.INFO  [x] Received 3/26/2003,1.385714054
+2023-10-03 15:45:59,796.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:00,840.Netflix_open_consumer.INFO  [x] Received 3/27/2003,1.46428597
+2023-10-03 15:46:00,841.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:01,879.Netflix_open_consumer.INFO  [x] Received 3/28/2003,1.553570986
+2023-10-03 15:46:01,879.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:02,919.Netflix_open_consumer.INFO  [x] Received 3/31/2003,1.442142963
+2023-10-03 15:46:02,919.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:03,950.Netflix_open_consumer.INFO  [x] Received 4/1/2003,1.46428597
+2023-10-03 15:46:03,950.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:04,981.Netflix_open_consumer.INFO  [x] Received 4/2/2003,1.428570986
+2023-10-03 15:46:04,981.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:06,006.Netflix_open_consumer.INFO  [x] Received 4/3/2003,1.442857027
+2023-10-03 15:46:06,006.Netflix_open_consumer.INFO  [x] Done.
+2023-10-03 15:46:07,042.Netflix_open_consumer.INFO 
+Closing connection. Goodbye.
+
